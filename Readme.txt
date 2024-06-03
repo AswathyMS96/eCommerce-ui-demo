@@ -1,3 +1,6 @@
+Build & host a mini eCommerce App UI
+
+
 HTML Bootsrap
 Navbar
 Products.HTML 
